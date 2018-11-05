@@ -1,0 +1,6 @@
+pymetis.egg-info/
+dist/
+*.pyc
+
+.idea/
+*.iml
